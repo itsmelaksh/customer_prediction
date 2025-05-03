@@ -1,0 +1,6 @@
+pyspark
+pandas
+scikit-learn
+mlflow
+matplotlib
+seaborn
